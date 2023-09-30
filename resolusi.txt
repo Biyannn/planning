@@ -1,5 +1,8 @@
 resolusi kedepannya :
-- Membuat portfolio web developer
 - Membuar calculator
 - Menguasai javascript
 - paham terhadap framewwork bootstrap
+- Memperbaiki portfolio web developer
+- Menguasai nodejs
+- Menguasai reactjs
+- Menguasai vuejs
