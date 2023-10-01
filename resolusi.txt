@@ -6,3 +6,6 @@ resolusi kedepannya :
 - Menguasai nodejs
 - Menguasai reactjs
 - Menguasai vuejs
+- Belajar bahasa PHP
+- Belajar bahasa c++
+- Belajar Bahasa Python
