@@ -6,3 +6,6 @@ resolusi kedepannya :
 - Menguasai nodejs
 - Menguasai reactjs
 - Menguasai vuejs
+- Belajar Bahasa c++
+- Menjadi Full Stack Web Developer
+
